@@ -1,0 +1,41 @@
+/* h1 {
+    color: white;
+    text-align: center;
+    font-weight: 500;
+    font-size: 35px;
+} */
+
+/* .knowus-img {
+    width: 18vw;
+    height: 42vh;
+    background-color: #7A53FC;
+} */
+
+/* .knowus-text {
+    width: 50vw;
+} */
+
+.categories {
+    /* margin-top: 50px; */
+    /* width: 20vw; */
+    /* border-radius: 20px; */
+    /* border: 3px solid #0116f3; */
+    /* border-top: none; */
+    /* background: #FFF; */
+    /* padding-left: 8px; */
+}
+
+.categories .topborder {
+    /* border-radius: 17px 17px 0px 0px;
+    background: var(--second-color, #7A53FC);
+    height: 8vh; */
+    /* width: 100%; */
+}
+
+.categories .bt {
+
+    /* border: 2px solid #0116F3; */
+    /* width: 12vw;
+    margin-left: 40px;
+    margin-bottom: 40px; */
+}
