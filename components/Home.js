@@ -618,8 +618,8 @@ const Demo = () => {
                 </div>
                 {/* Best Instrument end  */}
 
-                {/*[6] How To Bay start ===  */}
-                <h1 className='text-2xl text-white font-semibold text-center mt-14  md:text-3xl lg:text-4xl xl:text-[38px]'>How To Bay</h1>
+                {/*[6] How To Buy start ===  */}
+                <h1 className='text-2xl text-white font-semibold text-center mt-14  md:text-3xl lg:text-4xl xl:text-[38px]'>How To Buy</h1>
                 {/* laptop view start  */}
                 <div className='w-[80vw] flex justify-around items-center mt-10 hidden sm:flex'>
                     <div className='text:xl lg:text-2xl pb-5'>
