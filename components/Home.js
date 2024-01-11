@@ -144,7 +144,7 @@ const Demo = () => {
                         <Image src={images.right} className='ms-28' />
                     </div>
                     {/* Content */}
-                    <div className='lg:absolute lg:ms-[300px] xl:ms-[450px] lg:mt-24 xl:mt-40 hidden lg:block'>
+                    <div className='lg:absolute lg:ms-[28%] xl:ms-[32%] lg:mt-24 xl:mt-40 hidden lg:block'>
                         {/* <Image src={border} className='w-[520px]' /> */}
                         <p className='border border-white rounded-[50%] w-[520px] h-[500px] mt-8'>
                             <p className='border border-white rounded-[50%] w-[420px] h-[400px] ms-12 mt-12'>
